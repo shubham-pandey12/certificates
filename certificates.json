@@ -16,5 +16,14 @@
     "credentialId": "UC-f765ea99-91f2-478b-b524-d1954518f98f",
     "credentialUrl": "https://ude.my/UC-f765ea99-91f2-478b-b524-d1954518f98f",
     "imagePath": "images/complete-2023-web-development-bootcamp.jpg"
+  },
+  {
+    "title": "Flutter and Dart: Create Android and iOS Apps",
+    "issuer": "Udemy — Code Warriors",
+    "issuedAt": "June 20, 2021",
+    "description": "Completed 10 hours of training in Flutter and Dart for building Android and iOS applications.",
+    "credentialId": "UC-9323256d-27b5-4b6d-90ba-2aced68c3d2a",
+    "credentialUrl": "https://ude.my/UC-9323256d-27b5-4b6d-90ba-2aced68c3d2a",
+    "imagePath": "images/flutter-and-dart-app-development.jpg"
   }
 ]
