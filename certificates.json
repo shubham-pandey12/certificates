@@ -7,5 +7,14 @@
     "credentialId": "UC-c5d487d2-f678-4643-9879-e71d0b9c15e0",
     "credentialUrl": "https://ude.my/UC-c5d487d2-f678-4643-9879-e71d0b9c15e0",
     "imagePath": "images/java-programming-masterclass.jpg"
+  },
+  {
+    "title": "The Complete 2023 Web Development Bootcamp",
+    "issuer": "Udemy — Dr. Angela Yu",
+    "issuedAt": "February 27, 2023",
+    "description": "Completed the 65.5-hour Complete 2023 Web Development Bootcamp.",
+    "credentialId": "UC-f765ea99-91f2-478b-b524-d1954518f98f",
+    "credentialUrl": "https://ude.my/UC-f765ea99-91f2-478b-b524-d1954518f98f",
+    "imagePath": "images/complete-2023-web-development-bootcamp.jpg"
   }
 ]
