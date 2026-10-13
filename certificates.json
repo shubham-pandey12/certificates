@@ -1,7 +1,7 @@
 [
   {
     "title": "Java Programming Masterclass for Software Developers",
-    "issuer": "Udemy — Tim Buchalka's Learn Programming Academy",
+    "issuer": "Udemy \u2014 Tim Buchalka's Learn Programming Academy",
     "issuedAt": "January 15, 2021",
     "description": "Completed the 80.5-hour Java Programming Masterclass for Software Developers.",
     "credentialId": "UC-c5d487d2-f678-4643-9879-e71d0b9c15e0",
@@ -10,7 +10,7 @@
   },
   {
     "title": "The Complete 2023 Web Development Bootcamp",
-    "issuer": "Udemy — Dr. Angela Yu",
+    "issuer": "Udemy \u2014 Dr. Angela Yu",
     "issuedAt": "February 27, 2023",
     "description": "Completed the 65.5-hour Complete 2023 Web Development Bootcamp.",
     "credentialId": "UC-f765ea99-91f2-478b-b524-d1954518f98f",
@@ -19,11 +19,20 @@
   },
   {
     "title": "Flutter and Dart: Create Android and iOS Apps",
-    "issuer": "Udemy — Code Warriors",
+    "issuer": "Udemy \u2014 Code Warriors",
     "issuedAt": "June 20, 2021",
     "description": "Completed 10 hours of training in Flutter and Dart for building Android and iOS applications.",
     "credentialId": "UC-9323256d-27b5-4b6d-90ba-2aced68c3d2a",
     "credentialUrl": "https://ude.my/UC-9323256d-27b5-4b6d-90ba-2aced68c3d2a",
     "imagePath": "images/flutter-and-dart-app-development.jpg"
+  },
+  {
+    "title": "Django 3 - Python Backend Web Development For Beginner",
+    "issuer": "Udemy \u2014 Kazi Ariyan",
+    "issuedAt": "October 14, 2026",
+    "description": "Completed the 40.5-hour Django 3 Python backend web development course.",
+    "credentialId": "UC-f27d8c4d-9e08-49e1-8023-975e3c1c3606",
+    "credentialUrl": "https://ude.my/UC-f27d8c4d-9e08-49e1-8023-975e3c1c3606",
+    "imagePath": "images/django-3-python-backend-web-development.jpg"
   }
 ]
